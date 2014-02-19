@@ -1,0 +1,4 @@
+name = raw_input("What is your name?")
+boyfriend = raw_input("what is your boyfriend\'s name")
+
+print "So your name is %s, and his name is %s, did you know he loves you more than anything in the world?" % (name, boyfriend)
